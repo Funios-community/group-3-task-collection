@@ -22,10 +22,10 @@ solve it with your own way
 
 ## Submit task
 * Fork the repo
-* Make branch with the following format `yourname/city/task`
-### Example:
-* `hario/prontera/looping`
-* `hario/izlude/auto-layout`
+* Make **Branch** and **folder** with the following format `yourname/city/task`
+    * Example:
+        * `hario/prontera/looping`
+        * `hario/izlude/auto-layout`
 
 * PR to the repo
 
