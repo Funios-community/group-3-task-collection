@@ -15,4 +15,6 @@ func pilihSekolah(umur: Int) {
     }
 }
 
-pilihSekolah(umur: 23)
+var umurTeuku = 23
+
+pilihSekolah(umur: umurTeuku)
